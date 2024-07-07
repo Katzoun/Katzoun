@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is tomáš Janoušek and I study applied computer science at Brno University of Technology.</p>
+<p align="left">My name is Tomáš Janoušek and I study applied computer science at Brno University of Technology.</p>
 
 ###
 
