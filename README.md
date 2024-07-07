@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left"> I am interested in robotics, manufacturing and CNC machining</p>
+<p align="left"> I am interested in robotics, manufacturing, CNC machining, embedded systems and mechanical design. </p>
 
 ###
 
